@@ -9,6 +9,7 @@ In this project, I created a QR Code Generator using Python. For creating the GU
 I created a GUI Window that will have an entry field to enter the string or the URL and the QR Code will be generated for this entered string.
 
 Following are the steps to create the Python QR Code Generator Project:-
+
 1.) Importing the Required Libraries and Modules
 
 2.) Creating the GUI Window
